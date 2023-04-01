@@ -1,6 +1,28 @@
 h1 {
     font-size: 64px;
-    font-weight: 600;
+    font-weight: 650;
     font-family: "Comic Sans", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
+}
+
+/* inspired by: https://stackoverflow.com/questions/4622808/html-changing-colors-of-specific-words-in-a-string-of-text*/
+
+span.blue{
+    color: #4285F4;
+    background: none;
+}
+
+span.red{
+    color: #DB4437;
+    background: none;
+}
+
+span.yellow{
+    color: #ffd500;
+    background: none;
+}
+
+span.green{
+    color: #0F9D58;
+    background: none;
 }
